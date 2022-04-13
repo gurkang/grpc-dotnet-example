@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j/OPRes9tRrpLN0mrOuY9ZVOeEljunH8zi7AbAiAIeU=",
+  "Source": "testAddGRPC",
+  "BasePath": "_content/testAddGRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

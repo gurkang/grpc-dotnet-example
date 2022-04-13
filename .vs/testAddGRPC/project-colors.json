@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83449fab-8066-4d78-b69f-dc75021e6356": {
+      "ProjectGuid": "83449fab-8066-4d78-b69f-dc75021e6356",
+      "DisplayName": "testAddGRPC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

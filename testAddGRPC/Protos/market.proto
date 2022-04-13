@@ -1,0 +1,20 @@
+﻿syntax = "proto3";
+option csharp_namespace = "market";
+package volvocars.contracts.pop.manage;
+
+message Market {
+  string name = 1;
+  string code = 2;
+  repeated Language languages = 3;
+}
+
+message Language {
+  string code = 1;
+  string name = 2;
+}
+
+message MarketCreated { Market market = 1; }
+
+message MarketUpdated { Market market = 1; }
+
+message MarketDeleted { Market market = 1; }
